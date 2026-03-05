@@ -1,2 +1,3 @@
-# guild-verification-commit
-Guild.xyz verification commit
+Guild.xyz verification
+Timestamp: 2026-03-05T12:02:53.567Z
+Commit: Add dark mode support
